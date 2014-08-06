@@ -1,0 +1,19 @@
+{
+  "name": "Simple-Node-Server",
+  "version": "1.0.0",
+  "description": "Create a simple node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mclise/hello-world-node-server.git"
+  },
+  "author": "Matt Clise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mclise/hello-world-node-server/issues"
+  },
+  "homepage": "https://github.com/mclise/hello-world-node-server"
+}
